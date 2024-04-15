@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg6"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <path
+     d="m 1.096,5.896 v 9 h 13.808 v -9 h -0.596094 l -1.07,1.249 H 13.656 v 6.494 H 2.344 V 7.145 h 0.4117139 l -1.031,-1.249 z"
+     fill="#c5c5c5"
+     id="path2" />
+  <path
+     d="M7.907 10.33L3.089 4.496h2.947l.062-3.89 3.93.002-.065 3.89 2.948-.001z"
+     fill="#c5c5c5"
+     id="path4" />
+</svg>

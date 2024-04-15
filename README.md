@@ -1,4 +1,23 @@
-# Product Icon Theme Samples
+# Experiments with fonts
+
+## Also contains stuff from the gitlens repo
+
+To add new icons to the GL Icons font follow the steps below:
+
+- Add new SVG icons to the `images/icons` folder
+- Append entries for the new icons to the end of the `images/icons/template/mapping.json` file
+  - Entries should be in the format of `<icon-file-name-without-extension>: <increment-last-number>`
+- Optimize and build the icons by running the following from a terminal:
+
+  ```
+  yarn run icons:svgo
+  yarn run build:icons
+
+  ```
+
+Once you've finshed copy the new `glicons.woff2?<uuid>` URL from `src/webviews/apps/shared/glicons.scss` and search and replace the old references with the new one.
+
+# From vscode sample repo
 
 [Product icons themes](https://code.visualstudio.com/api/extension-guides/product-icon-theme) allow theme authors to customize the icons used in VS Code's built-in views: all icons except file icons (covered by file icon themes) and icons contributed by extensions.
 
@@ -11,13 +30,6 @@ The sample also contains a build script that creates the icon font from svg imag
 VSCode V1.0 Icons
 
 ![Sample VSCode 1.0](./demo.png)
-
-
-## VS Code API
-
-### Contribution Points
-
-- [contributes.productIconThemes](https://code.visualstudio.com/api/references/contribution-points#contributes.productIconThemes)
 
 ## Running the sample
 
