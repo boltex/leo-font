@@ -1,0 +1,487 @@
+{
+	"icons": {
+		"leojs-arrow-down": {
+			"description": "arrow-down icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f101"
+			}
+		},
+		"leojs-arrow-left": {
+			"description": "arrow-left icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f102"
+			}
+		},
+		"leojs-arrow-right": {
+			"description": "arrow-right icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f103"
+			}
+		},
+		"leojs-arrow-small-down": {
+			"description": "arrow-small-down icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f104"
+			}
+		},
+		"leojs-arrow-small-left": {
+			"description": "arrow-small-left icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f105"
+			}
+		},
+		"leojs-arrow-small-right": {
+			"description": "arrow-small-right icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f106"
+			}
+		},
+		"leojs-arrow-small-up": {
+			"description": "arrow-small-up icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f107"
+			}
+		},
+		"leojs-arrow-up": {
+			"description": "arrow-up icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f108"
+			}
+		},
+		"leojs-chapter-back": {
+			"description": "chapter-back icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f109"
+			}
+		},
+		"leojs-chapter-main": {
+			"description": "chapter-main icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f10a"
+			}
+		},
+		"leojs-chapter-next": {
+			"description": "chapter-next icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f10b"
+			}
+		},
+		"leojs-chapter-select": {
+			"description": "chapter-select icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f10c"
+			}
+		},
+		"leojs-clear-files": {
+			"description": "clear-files icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f10d"
+			}
+		},
+		"leojs-clipboard": {
+			"description": "clipboard icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f10e"
+			}
+		},
+		"leojs-close": {
+			"description": "close icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f10f"
+			}
+		},
+		"leojs-close-server": {
+			"description": "close-server icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f110"
+			}
+		},
+		"leojs-collapse": {
+			"description": "collapse icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f111"
+			}
+		},
+		"leojs-connect": {
+			"description": "connect icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f112"
+			}
+		},
+		"leojs-cut": {
+			"description": "cut icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f113"
+			}
+		},
+		"leojs-dehoist": {
+			"description": "dehoist icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f114"
+			}
+		},
+		"leojs-delete": {
+			"description": "delete icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f115"
+			}
+		},
+		"leojs-demote": {
+			"description": "demote icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f116"
+			}
+		},
+		"leojs-edit": {
+			"description": "edit icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f117"
+			}
+		},
+		"leojs-extract": {
+			"description": "extract icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f118"
+			}
+		},
+		"leojs-extract-name": {
+			"description": "extract-name icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f119"
+			}
+		},
+		"leojs-find-next": {
+			"description": "find-next icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f11a"
+			}
+		},
+		"leojs-find-previous": {
+			"description": "find-previous icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f11b"
+			}
+		},
+		"leojs-find-quick": {
+			"description": "find-quick icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f11c"
+			}
+		},
+		"leojs-find-quick-changed": {
+			"description": "find-quick-changed icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f11d"
+			}
+		},
+		"leojs-find-quick-history": {
+			"description": "find-quick-history icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f11e"
+			}
+		},
+		"leojs-find-quick-marked": {
+			"description": "find-quick-marked icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f11f"
+			}
+		},
+		"leojs-find-quick-selected": {
+			"description": "find-quick-selected icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f120"
+			}
+		},
+		"leojs-find-quick-timeline": {
+			"description": "find-quick-timeline icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f121"
+			}
+		},
+		"leojs-folder": {
+			"description": "folder icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f122"
+			}
+		},
+		"leojs-gear": {
+			"description": "gear icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f123"
+			}
+		},
+		"leojs-hoist": {
+			"description": "hoist icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f124"
+			}
+		},
+		"leojs-icon-leo-fill": {
+			"description": "icon-leo-fill icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f125"
+			}
+		},
+		"leojs-icon-leo-outline": {
+			"description": "icon-leo-outline icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f126"
+			}
+		},
+		"leojs-import": {
+			"description": "import icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f127"
+			}
+		},
+		"leojs-insert": {
+			"description": "insert icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f128"
+			}
+		},
+		"leojs-insert-child": {
+			"description": "insert-child icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f129"
+			}
+		},
+		"leojs-link": {
+			"description": "link icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f12a"
+			}
+		},
+		"leojs-mark": {
+			"description": "mark icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f12b"
+			}
+		},
+		"leojs-new-file": {
+			"description": "new-file icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f12c"
+			}
+		},
+		"leojs-next": {
+			"description": "next icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f12d"
+			}
+		},
+		"leojs-node": {
+			"description": "node icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f12e"
+			}
+		},
+		"leojs-open-recent": {
+			"description": "open-recent icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f12f"
+			}
+		},
+		"leojs-parent": {
+			"description": "parent icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f130"
+			}
+		},
+		"leojs-paste": {
+			"description": "paste icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f131"
+			}
+		},
+		"leojs-paste-clone": {
+			"description": "paste-clone icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f132"
+			}
+		},
+		"leojs-plus": {
+			"description": "plus icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f133"
+			}
+		},
+		"leojs-plus-small": {
+			"description": "plus-small icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f134"
+			}
+		},
+		"leojs-prev": {
+			"description": "prev icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f135"
+			}
+		},
+		"leojs-promote": {
+			"description": "promote icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f136"
+			}
+		},
+		"leojs-redo": {
+			"description": "redo icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f137"
+			}
+		},
+		"leojs-refresh": {
+			"description": "refresh icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f138"
+			}
+		},
+		"leojs-save": {
+			"description": "save icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f139"
+			}
+		},
+		"leojs-save-as": {
+			"description": "save-as icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f13a"
+			}
+		},
+		"leojs-save-as-leojs": {
+			"description": "save-as-leojs icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f13b"
+			}
+		},
+		"leojs-show-log": {
+			"description": "show-log icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f13c"
+			}
+		},
+		"leojs-sort-children": {
+			"description": "sort-children icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f13d"
+			}
+		},
+		"leojs-sort-siblings": {
+			"description": "sort-siblings icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f13e"
+			}
+		},
+		"leojs-start-server": {
+			"description": "start-server icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f13f"
+			}
+		},
+		"leojs-switch": {
+			"description": "switch icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f140"
+			}
+		},
+		"leojs-tag": {
+			"description": "tag icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f141"
+			}
+		},
+		"leojs-undo": {
+			"description": "undo icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f142"
+			}
+		},
+		"leojs-unmark": {
+			"description": "unmark icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f143"
+			}
+		},
+		"leojs-write-at-file-nodes": {
+			"description": "write-at-file-nodes icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f144"
+			}
+		},
+		"leojs-write-dirty-at-file-nodes": {
+			"description": "write-dirty-at-file-nodes icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\f145"
+			}
+		}
+	}
+}

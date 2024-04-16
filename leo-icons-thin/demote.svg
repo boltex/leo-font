@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   height="16"
-   width="16"
-   version="1.1"
-   id="svg4"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs8" />
-  <path
-     d="m 0.945,1.241875 v 6.46 h 11.65 v -6.46 z m 1,1 h 9.65 v 4.46 H 1.945 Z M 2.324,12.359 v 2 L 6.1,11.526 C 6.2128128,11.440726 6.2107993,11.270581 6.096,11.188 L 2.324,8.358 v 2 h -2 v 2 z m 2.8670312,-3.412 1.3145938,1 H 14.76 v 4.46 H 5.11 v -0.577062 l -1,0.75 V 15.406 H 15.76 V 8.947 Z"
-     fill="#c5c5c5"
-     paint-order="stroke fill markers"
-     id="path2" />
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg height="16" width="16" version="1.1" id="svg4" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" fill="currentColor"><defs id="defs8"/><path d="m 0.945,1.241875 v 6.46 h 11.65 v -6.46 z m 1,1 h 9.65 v 4.46 H 1.945 Z M 2.324,12.359 v 2 L 6.1,11.526 C 6.2128128,11.440726 6.2107993,11.270581 6.096,11.188 L 2.324,8.358 v 2 h -2 v 2 z m 2.8670312,-3.412 1.3145938,1 H 14.76 v 4.46 H 5.11 v -0.577062 l -1,0.75 V 15.406 H 15.76 V 8.947 Z" id="path2"/></svg>

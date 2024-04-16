@@ -1,0 +1,17 @@
+{
+	"icons": {
+		{{#each codepoints}}
+		"leojs-{{@key}}": {
+			"description": "{{@key}} icon",
+			"default": {
+				"fontPath": "resources/leoicons.woff2",
+				"fontCharacter": "\\\{{codepoint this}}"
+			}
+		{{#if @last}}
+		}
+		{{else}}
+		},
+		{{/if}}
+		{{/each}}
+	}
+}
