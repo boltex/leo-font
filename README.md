@@ -1,21 +1,21 @@
-# Experiments with fonts
+# Experiments with fonts for LeoJS and LeoInteg
 
-## Also contains stuff from the gitlens repo
+# From the gitlens repo
 
 To add new icons to the GL Icons font follow the steps below:
 
-- Add new SVG icons to the `images/icons` folder
-- Append entries for the new icons to the end of the `images/icons/template/mapping.json` file
+- Add new SVG icons to the `leo-icons-thin` folder
+- Append entries for the new icons to the end of the `leo-icons-thin/template/mapping.json` file
   - Entries should be in the format of `<icon-file-name-without-extension>: <increment-last-number>`
-- Optimize and build the icons by running the following from a terminal:
+- Optimize and build the icons by running the following scripts from package.json:
 
   ```
-  yarn run icons:svgo
-  yarn run build:icons
+  icons:svgo
+  build:icons
 
   ```
 
-Once you've finshed copy the new `glicons.woff2?<uuid>` URL from `src/webviews/apps/shared/glicons.scss` and search and replace the old references with the new one.
+Resulting woff2 file will be in resources folder.
 
 # From vscode sample repo
 
