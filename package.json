@@ -1,22 +1,11 @@
 {
-	"name": "product-icon-theme-sample",
+	"name": "leo-icons",
 	"version": "0.1.0",
-	"publisher": "vscode-samples",
+	"publisher": "boltex",
 	"engines": {
 		"vscode": "*"
 	},
-	"contributes": {
-		"productIconThemes": [
-			{
-				"id": "vscode-v1-icons",
-				"label": "VSCode 1.0 Icons",
-				"path": "./theme/v1-product-icon-theme.json"
-			}
-		]
-	},
 	"scripts": {
-		"updateFont": "node ./build/updateFont.js",
-		"showFont": "open ./theme/vscode-10.html",
 		"icons:svgo": "svgo -f ./leo-icons-thin/ --config svgo.config.js",
 		"build:icons": "fantasticon"
 	},
